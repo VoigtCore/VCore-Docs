@@ -24,7 +24,9 @@ Esta documentação descreve o ecossistema VCore em linguagem de produto e regis
 - [Guia rápido do Pulse](PULSE_USER_GUIDE.md)
 - [Perguntas frequentes](FAQ.md)
 - [Privacidade](PRIVACY.md)
-- [Publicações](SCIENTIFIC_PUBLICATIONS.md)
+- [Pesquisa por idioma e percurso de leitura](ciencia/README.md)
+- [Presença internacional confirmada](ciencia/INTERNACIONAL.md)
+- [Política e fontes das publicações](SCIENTIFIC_PUBLICATIONS.md)
 
 ## Como ler os estágios
 

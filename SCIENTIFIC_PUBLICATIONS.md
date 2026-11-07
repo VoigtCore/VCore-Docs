@@ -1,12 +1,12 @@
 # Publicações e pesquisa
 
-O catálogo público de artigos, referências e materiais de pesquisa está na seção de ciência da [VoigtCore](https://www.voigtcore.com.br/).
+O catálogo de ciência da VoigtCore é a fonte editorial de apresentação da pesquisa. Este repositório oferece uma rota prática para navegar por idioma, percurso de leitura, DOI e arquivos preservados.
 
-Os materiais devem identificar autoria, fonte, data e estágio editorial. Uma proposta, preprint, demonstração ou publicação institucional não deve ser descrita como revisão por pares sem uma referência que confirme esse processo.
+- [Abrir o catálogo por idioma e percurso de leitura](ciencia/README.md)
+- [Conferir a presença em Zenodo, SSRN e ResearchGate](ciencia/INTERNACIONAL.md)
+- [Consultar o catálogo oficial de Ciência da VoigtCore](https://www.voigtcore.com.br/ciencia/)
+- [Conhecer o livro e seus demonstrativos públicos](livro/README.md)
 
-Para conhecer a proposta de Computação Estrutural Temporal em linguagem de livro, veja [Engenharia da Continuidade Estrutural](livro/README.md) e seus [demonstrativos públicos](livro/demos/README.md). O arquivo integral permanece reservado.
+Os registros mantêm o tipo declarado na fonte. Um preprint, working paper ou publicação em repositório não deve ser descrito como artigo revisado por pares sem evidência editorial específica. Republicações e versões por idioma são identificadas separadamente para evitar contar o mesmo trabalho mais de uma vez.
 
-
-## Arquivos para leitura
-
-Consulte o [índice de publicações abertas e arquivos para leitura](ciencia/README.md). O livro integral permanece reservado; somente as cinco demonstrações públicas estão em [livro/demos](livro/demos/README.md).
+O livro integral *Engenharia da Continuidade Estrutural* permanece reservado; apenas os [cinco demonstrativos públicos](livro/demos/README.md) estão neste repositório.
