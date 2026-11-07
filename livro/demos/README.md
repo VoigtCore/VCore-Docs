@@ -1,13 +1,13 @@
 # Demonstrativos públicos do livro
 
-Os cinco arquivos abaixo são demonstrativos oficiais de 30 páginas, publicados em 30 de outubro de 2026 e disponibilizados na página do livro. Cada link abre somente a edição de demonstração; nenhum deles é o livro integral.
+Os cinco arquivos abaixo são demonstrativos oficiais da edição digital V9. Cada link abre somente o PDF de demonstração; o arquivo integral do livro não está neste repositório.
 
-- [Português brasileiro — PDF](https://www.voigtcore.com.br/livros/engenharia-da-continuidade-estrutural/demo/engenharia-continuidade-demonstrativo-pt-BR.pdf?v=20261104-demo-final)
-- [English — PDF](https://www.voigtcore.com.br/livros/engenharia-da-continuidade-estrutural/demo/engenharia-continuidade-demonstrativo-en.pdf?v=20261104-demo-final)
-- [Español — PDF](https://www.voigtcore.com.br/livros/engenharia-da-continuidade-estrutural/demo/engenharia-continuidade-demonstrativo-es.pdf?v=20261104-demo-final)
-- [中文（简体）— PDF](https://www.voigtcore.com.br/livros/engenharia-da-continuidade-estrutural/demo/engenharia-continuidade-demonstrativo-zh-Hans.pdf?v=20261104-demo-final)
-- [繁體中文 — PDF](https://www.voigtcore.com.br/livros/engenharia-da-continuidade-estrutural/demo/engenharia-continuidade-demonstrativo-zh-Hant.pdf?v=20261104-demo-final)
+- [Português brasileiro — DEMO-V9-PT-BR.pdf](DEMO-V9-PT-BR.pdf) · [página oficial](https://www.voigtcore.com.br/livros/engenharia-da-continuidade-estrutural/demo/engenharia-continuidade-demonstrativo-pt-BR.pdf?v=20261104-demo-final)
+- [English — DEMO-V9-EN.pdf](DEMO-V9-EN.pdf) · [official page](https://www.voigtcore.com.br/livros/engenharia-da-continuidade-estrutural/demo/engenharia-continuidade-demonstrativo-en.pdf?v=20261104-demo-final)
+- [Español — DEMO-V9-ES.pdf](DEMO-V9-ES.pdf) · [página oficial](https://www.voigtcore.com.br/livros/engenharia-da-continuidade-estrutural/demo/engenharia-continuidade-demonstrativo-es.pdf?v=20261104-demo-final)
+- [中文（简体）— DEMO-V9-ZH-HANS.pdf](DEMO-V9-ZH-HANS.pdf) · [página oficial](https://www.voigtcore.com.br/livros/engenharia-da-continuidade-estrutural/demo/engenharia-continuidade-demonstrativo-zh-Hans.pdf?v=20261104-demo-final)
+- [繁體中文 — DEMO-V9-ZH-HANT.pdf](DEMO-V9-ZH-HANT.pdf) · [página oficial](https://www.voigtcore.com.br/livros/engenharia-da-continuidade-estrutural/demo/engenharia-continuidade-demonstrativo-zh-Hant.pdf?v=20261104-demo-final)
 
-Confira a página oficial para a versão mais recente, apresentação, acessibilidade e anúncio do lançamento: [Engenharia da Continuidade Estrutural](https://www.voigtcore.com.br/noticias/engenharia-da-continuidade-estrutural/).
+Confira a [página oficial do livro](https://www.voigtcore.com.br/noticias/engenharia-da-continuidade-estrutural/) para apresentação e versão mais recente.
 
 **Regra editorial:** não copiar nem enviar o arquivo integral, fontes editáveis, capítulos completos, materiais reservados ou documentos pessoais para este repositório.
