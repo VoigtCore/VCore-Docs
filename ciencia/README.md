@@ -1,8 +1,8 @@
 # Publicações científicas abertas
 
-Esta coleção reúne cópias de consulta dos arquivos anexados a registros públicos marcados como Open no Zenodo. O DOI do Zenodo permanece a referência de origem de cada publicação. Os arquivos foram copiados sem conversão; o repositório não atribui uma licença adicional nem afirma revisão por pares.
+Esta coleção reúne versões de consulta dos 31 itens marcados como Open no painel Zenodo; os DOI são a referência de origem para os registros acessíveis. Os arquivos foram copiados sem conversão; o repositório não atribui uma licença adicional nem afirma revisão por pares.
 
-Somente arquivos encontrados nos registros abertos e acessíveis nesta revisão foram incluídos. Materiais restritos e documentos de outras pastas não foram copiados.
+Os arquivos foram incluídos somente após conferência de acesso e leitura. Materiais restritos e documentos fora da coleção selecionada não foram copiados. O item 18188229 é identificado ao final: a rota pública do Zenodo retornou 404, mas a cópia correspondente estava na coleção do autor.
 
 ## VLP/1 - VCore Link Protocol  - Identity Authorization and Continuity
 
@@ -234,3 +234,10 @@ Registro: [10.5281/zenodo.18234644](https://doi.org/10.5281/zenodo.18234644) · 
 
 Arquivos:
 - [PDF — Fundamentos do Campo Voigtiano.pdf](artigos/18234644/Fundamentos%20do%20Campo%20Voigtiano.pdf)
+
+## Temporal Regime Detection Through Multidimensional Time-Cost Representation in Complex Systems
+
+Registro indicado no painel: Zenodo 18188229 · Data paper · marcado Open. A rota pública do Zenodo retornou 404 na revisão de 7 de novembro de 2026; por isso esta cópia não tem link DOI funcional.
+
+Arquivo correspondente, conferido pelo título e autoria na coleção do autor:
+- [PDF — Temporal Regime Detection Through Multidimensional Time-Cost Representation in Complex Systems.pdf](artigos/18188229/Temporal%20Regime%20Detection%20Through%20Multidimensional%20Time-Cost%20Representation%20in%20Complex%20Systems.pdf)
